@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A6A24-9C45-45E3-9739-D3E4B4630CC1}|Ejercicio32AN\\Ejercicio32AN.csproj|C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\ejercicio32an\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A6A24-9C45-45E3-9739-D3E4B4630CC1}|Ejercicio32AN\\Ejercicio32AN.csproj|solutionrelative:ejercicio32an\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A6A24-9C45-45E3-9739-D3E4B4630CC1}|Ejercicio32AN\\Ejercicio32AN.csproj|C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\ejercicio32an\\plan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8E1A6A24-9C45-45E3-9739-D3E4B4630CC1}|Ejercicio32AN\\Ejercicio32AN.csproj|solutionrelative:ejercicio32an\\plan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A6A24-9C45-45E3-9739-D3E4B4630CC1}|Ejercicio32AN\\Ejercicio32AN.csproj|c:\\users\\abraham nasimba\\source\\repos\\ejercicio32an\\ejercicio32an\\cliente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A6A24-9C45-45E3-9739-D3E4B4630CC1}|Ejercicio32AN\\Ejercicio32AN.csproj|solutionrelative:ejercicio32an\\cliente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A6A24-9C45-45E3-9739-D3E4B4630CC1}|Ejercicio32AN\\Ejercicio32AN.csproj|C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\ejercicio32an\\plan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A6A24-9C45-45E3-9739-D3E4B4630CC1}|Ejercicio32AN\\Ejercicio32AN.csproj|solutionrelative:ejercicio32an\\plan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A6A24-9C45-45E3-9739-D3E4B4630CC1}|Ejercicio32AN\\Ejercicio32AN.csproj|C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\ejercicio32an\\inicio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A6A24-9C45-45E3-9739-D3E4B4630CC1}|Ejercicio32AN\\Ejercicio32AN.csproj|solutionrelative:ejercicio32an\\inicio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A6A24-9C45-45E3-9739-D3E4B4630CC1}|Ejercicio32AN\\Ejercicio32AN.csproj|C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\ejercicio32an\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8E1A6A24-9C45-45E3-9739-D3E4B4630CC1}|Ejercicio32AN\\Ejercicio32AN.csproj|solutionrelative:ejercicio32an\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A6A24-9C45-45E3-9739-D3E4B4630CC1}|Ejercicio32AN\\Ejercicio32AN.csproj|C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\ejercicio32an\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8E1A6A24-9C45-45E3-9739-D3E4B4630CC1}|Ejercicio32AN\\Ejercicio32AN.csproj|solutionrelative:ejercicio32an\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A6A24-9C45-45E3-9739-D3E4B4630CC1}|Ejercicio32AN\\Ejercicio32AN.csproj|C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\ejercicio32an\\cliente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8E1A6A24-9C45-45E3-9739-D3E4B4630CC1}|Ejercicio32AN\\Ejercicio32AN.csproj|solutionrelative:ejercicio32an\\cliente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A6A24-9C45-45E3-9739-D3E4B4630CC1}|Ejercicio32AN\\Ejercicio32AN.csproj|C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\ejercicio32an\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8E1A6A24-9C45-45E3-9739-D3E4B4630CC1}|Ejercicio32AN\\Ejercicio32AN.csproj|solutionrelative:ejercicio32an\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plan.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\Ejercicio32AN\\Plan.aspx.cs",
+              "RelativeDocumentMoniker": "Ejercicio32AN\\Plan.aspx.cs",
+              "ToolTip": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\Ejercicio32AN\\Plan.aspx.cs",
+              "RelativeToolTip": "Ejercicio32AN\\Plan.aspx.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAA8wJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:44:35.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\Ejercicio32AN\\Cliente.aspx.cs",
+              "RelativeDocumentMoniker": "Ejercicio32AN\\Cliente.aspx.cs",
+              "ToolTip": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\Ejercicio32AN\\Cliente.aspx.cs",
+              "RelativeToolTip": "Ejercicio32AN\\Cliente.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:44:19.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\Ejercicio32AN\\Web.config",
+              "RelativeDocumentMoniker": "Ejercicio32AN\\Web.config",
+              "ToolTip": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\Ejercicio32AN\\Web.config",
+              "RelativeToolTip": "Ejercicio32AN\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-15T05:38:34.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\Ejercicio32AN\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Ejercicio32AN\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\Ejercicio32AN\\Default.aspx.cs",
+              "RelativeToolTip": "Ejercicio32AN\\Default.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:38:15.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plan.aspx",
+              "DocumentMoniker": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\Ejercicio32AN\\Plan.aspx",
+              "RelativeDocumentMoniker": "Ejercicio32AN\\Plan.aspx",
+              "ToolTip": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\Ejercicio32AN\\Plan.aspx",
+              "RelativeToolTip": "Ejercicio32AN\\Plan.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-15T05:19:45.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\Ejercicio32AN\\Default.aspx",
+              "RelativeDocumentMoniker": "Ejercicio32AN\\Default.aspx",
+              "ToolTip": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\Ejercicio32AN\\Default.aspx",
+              "RelativeToolTip": "Ejercicio32AN\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-15T05:19:34.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\Ejercicio32AN\\Inicio.aspx",
+              "RelativeDocumentMoniker": "Ejercicio32AN\\Inicio.aspx",
+              "ToolTip": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\Ejercicio32AN\\Inicio.aspx",
+              "RelativeToolTip": "Ejercicio32AN\\Inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-15T05:18:52.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inicio.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\Ejercicio32AN\\Inicio.aspx.cs",
+              "RelativeDocumentMoniker": "Ejercicio32AN\\Inicio.aspx.cs",
+              "ToolTip": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\Ejercicio32AN\\Inicio.aspx.cs",
+              "RelativeToolTip": "Ejercicio32AN\\Inicio.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:18:49.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.aspx",
+              "DocumentMoniker": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\Ejercicio32AN\\Cliente.aspx",
+              "RelativeDocumentMoniker": "Ejercicio32AN\\Cliente.aspx",
+              "ToolTip": "C:\\Users\\Abraham Nasimba\\source\\repos\\Ejercicio32AN\\Ejercicio32AN\\Cliente.aspx",
+              "RelativeToolTip": "Ejercicio32AN\\Cliente.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-15T05:11:20.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
