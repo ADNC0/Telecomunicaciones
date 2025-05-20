@@ -75,7 +75,7 @@
             <footer>
  <img src="https://agroscopio.com/wp-content/uploads/2020/07/UTC-LOGO.png" 
              alt="Logo UTC" width="20" height="20" style="vertical-align: middle; margin-right: 5px;">
-        Autor: ADNC 8vo SI - Universidad Técnica de Cotopaxi            </footer>
+        Autor: ADNC           </footer>
         </div>
     </form>
     <asp:PlaceHolder runat="server">
