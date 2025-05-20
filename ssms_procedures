@@ -1,0 +1,204 @@
+CREATE TABLE ClienteTelco (
+    id_tec INT IDENTITY(1,1) PRIMARY KEY,
+    nombre VARCHAR(100),
+    [plan] VARCHAR(50),
+    numero VARCHAR(15),
+    ciudad VARCHAR(50),
+    estado VARCHAR(50),
+    consumo_mensual DECIMAL(10,2)
+);
+
+select * from Llamada;
+
+select * from  ClienteTelco;
+
+CREATE TABLE Llamada (
+    id_lla INT IDENTITY(1,1) PRIMARY KEY,
+    numero_origen VARCHAR(15),
+    numero_destino VARCHAR(15),
+    duracion INT,
+    tipo VARCHAR(30),
+    fecha DATETIME,
+    costo DECIMAL(10,2)
+);
+
+select * from  PlanTarifa ;
+
+CREATE TABLE PlanTarifa (
+    id_plan INT IDENTITY(1,1) PRIMARY KEY,
+    nombre VARCHAR(50),
+    minutos INT,
+    datos INT,
+    precio DECIMAL(10,2),
+    roaming BIT,
+    renovacion VARCHAR(30)
+);
+
+
+-- SP Agregar ClienteTelco
+CREATE PROCEDURE AgregarClienteTelco
+    @nombre VARCHAR(100),
+    @plan VARCHAR(50),
+    @numero VARCHAR(15),
+    @ciudad VARCHAR(50),
+    @estado VARCHAR(50),
+    @consumo_mensual DECIMAL(10,2)
+AS
+BEGIN
+    INSERT INTO ClienteTelco (nombre,[plan], numero, ciudad, estado, consumo_mensual)
+    VALUES (@nombre, @plan, @numero, @ciudad, @estado, @consumo_mensual);
+END
+GO
+
+-- SP Editar ClienteTelco
+CREATE PROCEDURE EditarClienteTelco
+    @id_tec INT,
+    @nombre VARCHAR(100),
+    @plan VARCHAR(50),
+    @numero VARCHAR(15),
+    @ciudad VARCHAR(50),
+    @estado VARCHAR(50),
+    @consumo_mensual DECIMAL(10,2)
+AS
+BEGIN
+    UPDATE ClienteTelco
+    SET nombre = @nombre,
+        [plan] = @plan,
+        numero = @numero,
+        ciudad = @ciudad,
+        estado = @estado,
+        consumo_mensual = @consumo_mensual
+    WHERE id_tec = @id_tec;
+END
+GO
+
+-- SP Eliminar ClienteTelco
+CREATE PROCEDURE EliminarClienteTelco
+    @id_tec INT
+AS
+BEGIN
+    DELETE FROM ClienteTelco WHERE id_tec = @id_tec;
+END
+GO
+
+-- SP Buscar ClienteTelco
+CREATE PROCEDURE BuscarClienteTelco
+    @id_tec INT
+AS
+BEGIN
+    SELECT * FROM ClienteTelco WHERE id_tec = @id_tec;
+END
+GO
+
+
+-- SP Agregar Llamada
+CREATE PROCEDURE AgregarLlamada
+    @numero_origen VARCHAR(15),
+    @numero_destino VARCHAR(15),
+    @duracion INT,
+    @tipo VARCHAR(30),
+    @fecha DATETIME,
+    @costo DECIMAL(10,2)
+AS
+BEGIN
+    INSERT INTO Llamada (numero_origen, numero_destino, duracion, tipo, fecha, costo)
+    VALUES (@numero_origen, @numero_destino, @duracion, @tipo, @fecha, @costo);
+END
+GO
+
+-- SP Editar Llamada
+CREATE PROCEDURE EditarLlamada
+    @id_lla INT,
+    @numero_origen VARCHAR(15),
+    @numero_destino VARCHAR(15),
+    @duracion INT,
+    @tipo VARCHAR(30),
+    @fecha DATETIME,
+    @costo DECIMAL(10,2)
+AS
+BEGIN
+    UPDATE Llamada
+    SET numero_origen = @numero_origen,
+        numero_destino = @numero_destino,
+        duracion = @duracion,
+        tipo = @tipo,
+        fecha = @fecha,
+        costo = @costo
+    WHERE id_lla = @id_lla;
+END
+GO
+
+-- SP Eliminar Llamada
+CREATE PROCEDURE EliminarLlamada
+    @id_lla INT
+AS
+BEGIN
+    DELETE FROM Llamada WHERE id_lla = @id_lla;
+END
+GO
+
+-- SP Buscar Llamada
+CREATE PROCEDURE BuscarLlamada
+    @id_lla INT
+AS
+BEGIN
+    SELECT * FROM Llamada WHERE id_lla = @id_lla;
+END
+GO
+
+
+-- SP Agregar PlanTarifa
+CREATE PROCEDURE AgregarPlanTarifa
+    @nombre VARCHAR(50),
+    @minutos INT,
+    @datos INT,
+    @precio DECIMAL(10,2),
+    @roaming BIT,
+    @renovacion VARCHAR(30)
+AS
+BEGIN
+    INSERT INTO PlanTarifa (nombre, minutos, datos, precio, roaming, renovacion)
+    VALUES (@nombre, @minutos, @datos, @precio, @roaming, @renovacion);
+END
+GO
+
+-- SP Editar PlanTarifa
+CREATE PROCEDURE EditarPlanTarifa
+    @id_plan INT,
+    @nombre VARCHAR(50),
+    @minutos INT,
+    @datos INT,
+    @precio DECIMAL(10,2),
+    @roaming BIT,
+    @renovacion VARCHAR(30)
+AS
+BEGIN
+    UPDATE PlanTarifa
+    SET nombre = @nombre,
+        minutos = @minutos,
+        datos = @datos,
+        precio = @precio,
+        roaming = @roaming,
+        renovacion = @renovacion
+    WHERE id_plan = @id_plan;
+END
+GO
+
+-- SP Eliminar PlanTarifa
+CREATE PROCEDURE EliminarPlanTarifa
+    @id_plan INT
+AS
+BEGIN
+    DELETE FROM PlanTarifa WHERE id_plan = @id_plan;
+END
+GO
+
+-- SP Buscar PlanTarifa
+CREATE PROCEDURE BuscarPlanTarifa
+    @id_plan INT
+AS
+BEGIN
+    SELECT * FROM PlanTarifa WHERE id_plan = @id_plan;
+END
+GO
+
